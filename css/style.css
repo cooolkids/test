@@ -441,6 +441,7 @@ b.navy {
 
 .button p {
     position: absolute;
+    width: 100%;
 }
 
 .b1 p {
