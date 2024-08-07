@@ -156,7 +156,7 @@ li.main-menu:hover {
     justify-content: space-between;
 }
 
-.thum-wrap figcaption{
+.thum-wrap figcaption {
     margin-top: 10px;
 }
 
@@ -177,23 +177,23 @@ li.main-menu:hover {
     gap: 2px;
 }
 
-.thum-wrap p{
+.thum-wrap p {
     padding-left: 5px;
 }
 
-.thum-wrap.on::after{
+.thum-wrap.on::after {
     content: '';
     position: absolute;
     width: 100%;
     height: 0.2px;
-    background:rgba(0, 0, 0, 0.055);
+    background: rgba(0, 0, 0, 0.055);
     left: 0;
     bottom: 235px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
     display: none;
 }
 
-.thum-wrap.on::after{
+.thum-wrap.on::after {
     display: block;
 }
 
@@ -447,7 +447,7 @@ b.navy {
     left: 50%;
     bottom: 10px;
     transform: translateX(-50%);
-    font-style: bold;
+    font-weight: bold;
 }
 
 
@@ -477,7 +477,7 @@ b.navy {
     left: 48%;
     bottom: 7px;
     transform: translateX(-50%);
-    font-style: bold;
+    font-weight: bold;
 }
 
 .b3 {
@@ -501,7 +501,7 @@ b.navy {
     left: 50%;
     bottom: 10px;
     transform: translateX(-50%);
-    font-style: bold;
+    font-weight: bold;
 }
 
 
