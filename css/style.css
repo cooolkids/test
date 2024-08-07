@@ -30,6 +30,10 @@ header ul.login {
     justify-content: right;
 }
 
+ul.login li{
+    padding-left: 2px;
+}
+
 header li.youtube {
     color: #2EA1D0;
 }
@@ -254,6 +258,10 @@ li.main-menu:hover {
     justify-content: center;
     width: 100%;
     height: 100%;
+}
+
+.summary-inner figure img{
+    padding: 8px;
 }
 
 .summary figure {
@@ -538,7 +546,7 @@ b.navy {
     height: 120px;
     align-items: center;
     color: #0D2639;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 400;
 }
 
