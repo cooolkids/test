@@ -445,7 +445,7 @@ b.navy {
 }
 
 .b1 p {
-    left: 50%;
+    left: 75%;
     bottom: 10px;
     transform: translateX(-50%);
     font-weight: bold;
@@ -458,7 +458,7 @@ b.navy {
     height: 40px;
     background: linear-gradient(to bottom, #FE607A, #FF3C6A);
     color: #fff;
-    left: 52%;
+    left: 54%;
     bottom: 50px;
     transform: translateX(-50%);
 }
@@ -475,7 +475,7 @@ b.navy {
 }
 
 .b2 p {
-    left: 48%;
+    left: 75%;
     bottom: 7px;
     transform: translateX(-50%);
     font-weight: bold;
@@ -493,13 +493,13 @@ b.navy {
 }
 
 .b3 p {
-    left: 48%;
+    left: 75%;
     bottom: 18px;
     transform: translateX(-50%);
 }
 
 .b4 p {
-    left: 50%;
+    left: 75%;
     bottom: 10px;
     transform: translateX(-50%);
     font-weight: bold;
@@ -577,6 +577,7 @@ b.dark {
 }
 
 .video-inner ul li a p {
+    font-size: 13px;
     color: #252525;
     line-height: 20px;
     height: 50px;
