@@ -188,7 +188,7 @@ li.main-menu:hover {
     height: 0.2px;
     background: rgba(0, 0, 0, 0.055);
     left: 0;
-    bottom: 10px;
+    top: 340px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
     display: none;
 }
